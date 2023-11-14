@@ -18,7 +18,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 
 import com.loc.newsapp.R
-import com.loc.newsapp.presentation.onboarding.Dimension
+import com.loc.newsapp.presentation.Dimension
 import com.loc.newsapp.presentation.onboarding.Page
 import com.loc.newsapp.presentation.onboarding.pages
 import com.loc.newsapp.ui.theme.NewsAppTheme
